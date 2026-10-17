@@ -9,7 +9,7 @@
 // @match        https://gemini.google.com/*
 // @run-at       document-start
 // @grant        none
-// @license      All rights reserved
+// @license      MIT
 // @homepageURL  https://github.com/Chen017/gemini-hd-preview
 // @supportURL   https://github.com/Chen017/gemini-hd-preview/issues
 // @downloadURL  https://raw.githubusercontent.com/Chen017/gemini-hd-preview/main/gemini-hd-preview.user.js
