@@ -76,4 +76,4 @@ The repository's `.user.js` file can be published to [Greasy Fork](https://greas
 
 ### License
 
-A public repository is not automatically open-source licensed. No reuse license has been granted yet; a license can be added by the author later.
+Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Chen017.
